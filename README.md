@@ -1,12 +1,12 @@
 # crypto-analysis
 This repository contains analysis scripts for my crypto currency project.
 
-##How data is stored and moved
+## How data is stored and moved
 
 The majority of this project assumes data is stored in postgres databases. The
 analysis code primarily uses python, pandas, and matplotlib to create visuals.
 
-##How to make basic figures
+## How to make basic figures
 
 1. Have the data in a postgres database somewhere.
 
